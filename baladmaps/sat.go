@@ -1,4 +1,4 @@
-package googlemaps
+package baladmaps
 
 import (
 	//"../common"
